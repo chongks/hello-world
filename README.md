@@ -1,3 +1,3 @@
-# hello-world
+# hello-world from branch1
 a hello world repository
-Just created a new branch here by Chong
+Just created a new branch called branch1 by Chong
